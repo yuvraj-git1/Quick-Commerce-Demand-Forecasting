@@ -1,0 +1,10 @@
+# data is downloaded, never committed
+data/raw/
+data/processed/
+data/outputs/*.parquet
+data/outputs/*.log
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.DS_Store
